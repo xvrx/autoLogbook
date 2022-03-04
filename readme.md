@@ -8,11 +8,10 @@
 ### 2. Install python and selenium lib
 - download and install python, get the latest version [here](https://www.python.org/downloads/).
 - install selenium library using command prompt
-- download chromedriver [here](https://chromedriver.chromium.org/downloads) and make sure it is the same version as chrome browser installed
-
 ```bash
 pip i selenium
 ```
+- download chromedriver [here](https://chromedriver.chromium.org/downloads) and make sure it is the same version as chrome browser installed
 
 ### 3. create a batch file to automatically run SAK.py / Prese.py
 you can also automatically run it on startup by placing the file in windows startup folder that you can access by opening up run and typing `shell:startup`. inside the SAK.py / prese.py, find and rename 'NIP' and 'Password' according to your credential.
