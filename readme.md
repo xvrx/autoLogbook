@@ -19,6 +19,6 @@ you can also automatically run it on startup by placing the file in windows star
 ### 4. Run the batch file on 5 AM (or anytime it is accesible) by launching it using auto power-on
 `important` separate the 'waking up' event from the other event in which it runs the batch file as it will not trigger the launch event if it's directly assigned at the same time
 
-### 5. Actually stop concerning and worrying about forgetting to mark online presence and having to seek your picture from the CCTV while printing out some unecessary documents.
+### 5. Forget about it
 
 ![image](https://user-images.githubusercontent.com/85608673/156689053-2c339478-7241-4643-bbc6-ac6346daf6c6.png)
