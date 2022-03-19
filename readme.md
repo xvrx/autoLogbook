@@ -14,7 +14,9 @@ pip i selenium
 - download chromedriver [here](https://chromedriver.chromium.org/downloads) and make sure it is the same version as chrome browser installed
 
 ### 3. create a batch file to automatically run SAK.py / Prese.py
-you can also automatically run it on startup by placing the file in windows startup folder that you can access by opening up run and typing `shell:startup`. inside the SAK.py / prese.py, find and rename 'NIP' and 'Password' according to your credential.
+you can also automatically run it on startup by placing the file in windows startup folder that you can access by opening up run and typing `shell:startup`. inside the SAK.py / prese.py:
+- change the geoLocation latitude & longitude to wherever you are supposed to be. 
+- find and rename 'NIP' and 'Password' according to your credential.
 
 ### 4. Run the batch file on 5 AM (or anytime it is accesible) by launching it using auto power-on
 `important` separate the 'waking up' event from the other event in which it runs the batch file as it will not trigger the launch event if it's directly assigned at the same time
