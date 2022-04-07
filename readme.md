@@ -7,9 +7,9 @@
 
 ### 2. Install python and selenium lib
 - download and install python, get the latest version [here](https://www.python.org/downloads/).
-- install selenium library using command prompt
+- install selenium library using command prompt (do not use python shell)
 ```bash
-pip i selenium
+pip install selenium
 ```
 - download chromedriver [here](https://chromedriver.chromium.org/downloads) and make sure it is the same version as chrome browser installed
 
